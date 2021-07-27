@@ -1,3 +1,5 @@
+#dictionary로 풀기!
+
 def solution(s):
     answer = ""
     arr = ""
