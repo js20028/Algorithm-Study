@@ -8,3 +8,4 @@ Level 1-6. K번째수<br>
 Level 1-7. 체육복<br>
 Level 1-8. 소수 만들기<br>
 Level 1-9. 없는 숫자 더하기<br>
+Level 1-10. 약수의 개수와 덧셈<br>
