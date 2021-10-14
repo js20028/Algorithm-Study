@@ -1,5 +1,9 @@
 def solution(numbers):
     answer = []
-    set1 = ()
-    for i in 
-    return answer
+    s = set()
+    for i in range(len(numbers)-1):
+        for j in range(i+1,len(numbers)):
+            s.add(numbers[i]+numbers[j])
+    answer = list(s)
+    
+    return sorted(answer)
