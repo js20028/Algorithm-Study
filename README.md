@@ -15,3 +15,4 @@ Level 1-13. 키패드 누르기<br>
 Level 1-14. 음양 더하기<br>
 Level 1-15. 2016년<br>
 Level 1-16. 약수의 합<br>
+Level 1-17. 예산<br>
