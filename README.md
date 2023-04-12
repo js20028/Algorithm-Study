@@ -16,4 +16,6 @@ Level 1-14. 음양 더하기<br>
 Level 1-15. 2016년<br>
 Level 1-16. 약수의 합<br>
 Level 1-17. 예산<br>
-Level 1-18. 내적<br>
+Level 1-18. 내적<br><br>
+
+Level 1-19. 달리기 경주<br>
