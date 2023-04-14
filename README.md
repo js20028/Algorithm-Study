@@ -19,3 +19,4 @@ Level 1-17. 예산<br>
 Level 1-18. 내적<br><br>
 
 Level 1-19. 달리기 경주<br>
+level 1-20. 가운데 글자 가져오기<br>
