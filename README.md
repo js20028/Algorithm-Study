@@ -38,6 +38,7 @@ Level 1-35. 정수 내림차순으로 배치하기<br>
 Level 1-36. 정수 제곱근 판별<br>
 Level 1-37. 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임<br> 
 Level 1-38. 2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도<br>
+Level 1-39. 2019 KAKAO BLIND RECRUITMENT 실패율<br>
 
 
 
