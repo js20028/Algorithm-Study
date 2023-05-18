@@ -40,6 +40,7 @@ Level 1-37. 2018 KAKAO BLIND RECRUITMENT [1차] 다트 게임<br>
 Level 1-38. 2018 KAKAO BLIND RECRUITMENT [1차] 비밀지도<br>
 Level 1-39. 2019 KAKAO BLIND RECRUITMENT 실패율<br>
 Level 1-40. 2020 카카오 인턴십 키패드 누르기<br>
+Level 1-41. 2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임<br>
 
 
 
