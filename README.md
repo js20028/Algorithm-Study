@@ -43,7 +43,7 @@ Level 1-40. 2020 카카오 인턴십 키패드 누르기<br>
 Level 1-41. 2019 카카오 개발자 겨울 인턴십 크레인 인형뽑기 게임<br>
 Level 1-42. 완전탐색 최소 직사각형<br>
 Level 1-43. 2022 KAKAO TECH INTERNSHIP 성격 유형 검사하기<br>
-
+Level 1-44. 2022 KAKAO BLIND RECRUITMENT 신고 결과 받기<br>
 
 
 
