@@ -47,6 +47,7 @@ Level 1-44. 2022 KAKAO BLIND RECRUITMENT 신고 결과 받기<br>
 Level 1-45. 2023 KAKAO BLIND RECRUITMENT 개인정보 수집 유효기간<br><br>
 
 Level 2-1. 스택/큐 올바른 괄호<br>
+Level 2-2. 스택/큐 프로세스<br>
 
 
 
