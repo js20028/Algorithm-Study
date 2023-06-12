@@ -51,7 +51,9 @@ Level 2-2. 스택/큐 프로세스<br>
 Level 2-3. 스택/큐 기능개발<br>
 Level 2-4. 완전탐색 카펫<br>
 Level 2-5. 완전탐색 소수 찾기<br>
-Level 2-5. 정렬 가장 큰 수<br>
+Level 2-6. 정렬 가장 큰 수<br>
+Level 2-7. 정렬 H-Index<br>
+
 
 
 
