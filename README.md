@@ -55,6 +55,7 @@ Level 2-6. 정렬 가장 큰 수<br>
 Level 2-7. 정렬 H-Index<br>
 Level 2-8. 해시 의상<br>
 Level 2-9. 탐욕법 큰 수 만들기<br>
+Level 2-9. DFS/BFS 타겟 넘버<br>
 
 
 
